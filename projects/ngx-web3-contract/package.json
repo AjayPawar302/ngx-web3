@@ -1,0 +1,21 @@
+{
+  "name": "ngx-web3-contract",
+  "version": "0.0.1",
+  "description": "this library only for angular",
+  "author": {
+    "name": "Ajay Pawar,Rohan Pawar",
+    "email": "ajay.pawar.cse19@gmail.com"
+  },
+  "keywords": ["ethers","blockchain","web3","angular"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AjayPawar302/ngx-web3"
+  },
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
